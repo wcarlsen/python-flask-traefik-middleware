@@ -8,5 +8,8 @@ verify_ssl = true
 [packages]
 flask = "*"
 
+[scripts]
+start = "flask run"
+
 [requires]
 python_version = "3.7"
