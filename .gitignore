@@ -1,0 +1,6 @@
+.venv
+__pycache__
+tags.lock
+tags.temp
+tags
+.env
